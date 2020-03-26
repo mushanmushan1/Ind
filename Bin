@@ -3,6 +3,7 @@ include<stdio.h>
 int main()
 {
     printf("Welcome to Github!\n");
-    
+    printf("I really love the Github world!\n");    
+
     return 1;
 }
